@@ -2,6 +2,8 @@
 
 source code behind the custom mass-customization of <a href="http://www.hermithouses.nl">The Hermit Houses</a>
 
+![HermitHouses DIY app](http://hermithouses.nl/img/diyanif.gif |height=200) ![](http://hermithouses.nl/img/elly.png | height=200)
+
 ## use
 
 * download Processing ( and dependencies like Toxi and ProScene )
